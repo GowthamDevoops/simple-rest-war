@@ -5,9 +5,7 @@
   <artifactId>slider-test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <properties>
-    <jersey.version>2.13</jersey.version>
-  </properties>
+  <properties>    <jersey.version>2.13</jersey.version>  </properties>
 
   <dependencies>
     <dependency>
